@@ -16,5 +16,5 @@ This project is an interactive **Excel-based dashboard** that visualizes the glo
 - Pivot charts: bar, pie, line, and combo
 - World map view for major hotspots
 
-[![Dashboard Preview](Resources/Image/covid_19 dashboard.png)]()
+[![Dashboard Preview](Resources/Image/covid_19 dashboard.png)](https://github.com/Mohit-kr-singh/Covid_19_Dashboard/blob/512174497f52f5199815d5c2754f45a884754900/Resources/Image/covid_19%20dashboard.png)
 
