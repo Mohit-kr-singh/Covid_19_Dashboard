@@ -47,9 +47,24 @@ A clean and intuitive pie chart showing the distribution of confirmed COVID-19 c
 
 A dual-axis chart comparing confirmed COVID-19 cases (bar graph) and death rates (line graph) across six continents. Built using Python, this visualization highlights regional disparities and offers a clear overview of pandemic severity.
 
+<img width="517" height="277" alt="image" src="https://github.com/user-attachments/assets/e77a3dec-d6c5-47a6-866c-6c08708d8b33" />
 
+## 🚀 How to Use
 
+1. Download and open `Covid_19 Dashboard.xlsx` in Microsoft Excel.
+2. Use the slicers (Year, Continent) to explore the data dynamically.
+3. Navigate through different visuals and summaries in the dashboard.
 
+## 📁 Project Structure
+
+| File                             | Description                                 |
+|----------------------------------|---------------------------------------------|
+| `Covid_19 Dashboard.xlsx`        | Final interactive Excel dashboard           |
+| `MINI PROJECT DATASET.xlsx`      | Raw dataset used to build dashboard         |
+| `Resources/Image/*.png`          | Dashboard screenshots and pivot chart visuals |
+| `README.md`                      | Project documentation                       |
+
+   
 ## 🧰 Tools & Skills Used
 
 - Microsoft Excel  
