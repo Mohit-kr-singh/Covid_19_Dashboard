@@ -89,4 +89,6 @@ To build a fully functional, no-code data dashboard using Excel that visually co
 **Mohit Kumar Singh**  
 Aspiring Data Analyst | Excel | Python | Statistics  
 
-[GitHub Profile](https://github.com/Mohit-kr-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mohit-kr-singh)
+
+
