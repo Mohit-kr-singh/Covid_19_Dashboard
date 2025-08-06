@@ -33,6 +33,13 @@ This clustered chart compares the total number of confirmed and recovered cases 
 
 A visually rich dashboard showcasing the top 10 countries most affected by COVID-19, comparing confirmed cases and recoveries. Built using Python and pandas, this project highlights data storytelling through charts and clean design.
 
+<img width="520" height="270" alt="image" src="https://github.com/user-attachments/assets/0d0643c5-ecb8-4387-aa4b-f1fcf34fb626" />
+
+
+### 📊 COVID-19 Cases by Continent – Pie Chart Visualizatio
+
+A clean and intuitive pie chart showing the distribution of confirmed COVID-19 cases across six continents. Built using Python and matplotlib, this visualization offers a quick glance at regional impact and global case proportions.
+
 
 
 
