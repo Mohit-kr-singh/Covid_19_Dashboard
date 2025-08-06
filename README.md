@@ -91,4 +91,6 @@ Aspiring Data Analyst | Excel | Python | Statistics
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Mohit-kr-singh)
 
+## 📃 License
 
+This project is open-source and intended for educational use.
