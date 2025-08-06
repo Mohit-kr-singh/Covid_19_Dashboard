@@ -40,6 +40,13 @@ A visually rich dashboard showcasing the top 10 countries most affected by COVID
 
 A clean and intuitive pie chart showing the distribution of confirmed COVID-19 cases across six continents. Built using Python and matplotlib, this visualization offers a quick glance at regional impact and global case proportions.
 
+<img width="520" height="280" alt="image" src="https://github.com/user-attachments/assets/f48a9ad5-8b2c-4da6-a0fa-638380ce0233" />
+
+
+### 📈 COVID-19 Regional Summary – Confirmed Cases vs. Death Rate
+
+A dual-axis chart comparing confirmed COVID-19 cases (bar graph) and death rates (line graph) across six continents. Built using Python, this visualization highlights regional disparities and offers a clear overview of pandemic severity.
+
 
 
 
