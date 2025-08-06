@@ -64,6 +64,16 @@ A dual-axis chart comparing confirmed COVID-19 cases (bar graph) and death rates
 | `Resources/Image/*.png`          | Dashboard screenshots and pivot chart visuals |
 | `README.md`                      | Project documentation                       |
 
+## 🎯 Project Objective
+
+To build a fully functional, no-code data dashboard using Excel that visually communicates key COVID-19 trends, suitable for stakeholders with minimal technical background.
+
+## 📌 Insights (Optional)
+
+- North America recorded the highest confirmed cases.
+- Recovery rates varied drastically between regions.
+- Death rates were significantly high in South America and Europe.
+- Africa had relatively fewer confirmed and death cases.
    
 ## 🧰 Tools & Skills Used
 
@@ -72,4 +82,11 @@ A dual-axis chart comparing confirmed COVID-19 cases (bar graph) and death rates
 - Pivot Charts  
 - Slicers  
 - Interactive Filters  
-- Map Visualization  
+- Map Visualization
+
+## ✍️ Author
+
+**Mohit Kumar Singh**  
+Aspiring Data Analyst | Excel | Python | Statistics  
+
+[GitHub Profile](https://github.com/your-username)  
