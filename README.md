@@ -19,3 +19,20 @@ This project is an interactive **Excel-based dashboard** that visualizes the glo
 [![Dashboard Preview](Resources/Image/covid_19 dashboard.png)](https://github.com/Mohit-kr-singh/Covid_19_Dashboard/blob/512174497f52f5199815d5c2754f45a884754900/Resources/Image/covid_19%20dashboard.png)
 
 <img width="1887" height="857" alt="image" src="https://github.com/user-attachments/assets/b65cf753-d7a1-4764-8770-e030c4d0b2cc" />
+
+## 📈 Key Visuals
+
+### 🌍 Global COVID Counts: Confirmed vs Recovered
+
+This clustered bar chart compares the total number of confirmed and recovered cases across continents, giving a visual representation of recovery progress relative to spread.
+
+
+
+## 🧰 Tools & Skills Used
+
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Interactive Filters  
+- Map Visualization  
