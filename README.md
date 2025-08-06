@@ -24,7 +24,15 @@ This project is an interactive **Excel-based dashboard** that visualizes the glo
 
 ### 🌍 Global COVID Counts: Confirmed vs Recovered
 
-This clustered bar chart compares the total number of confirmed and recovered cases across continents, giving a visual representation of recovery progress relative to spread.
+This clustered chart compares the total number of confirmed and recovered cases across continents, giving a visual representation of recovery progress relative to spread.
+
+<img width="517" height="275" alt="image" src="https://github.com/user-attachments/assets/986ba713-5b4a-4e56-bdae-f05f2e9d9c24" />
+
+
+### 📊 COVID-19 Dashboard: Top 10 Countries by Cases and Recoveries
+
+A visually rich dashboard showcasing the top 10 countries most affected by COVID-19, comparing confirmed cases and recoveries. Built using Python and pandas, this project highlights data storytelling through charts and clean design.
+
 
 
 
